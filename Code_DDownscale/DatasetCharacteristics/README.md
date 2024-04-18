@@ -1,0 +1,7 @@
+# Dataset Characteristics
+
+The code used to generate plots that shows Distribution of object size across different classes, helping visualize different opportutinies of downscale available for different query object class in different videos. The duration of video data is also plotted to show the extent of short video duration considered.
+
+## Requirements
+To compute the duration of video, the code requires that the datasets in question be downloaded and the corresponding (regenerated from frames and fps settings given in the dataset) videos be saved in the under appropriate folder.
+
