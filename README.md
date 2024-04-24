@@ -13,11 +13,12 @@ Coming Soon
 ### Dataset Characteristics
 Different videos have different levels of detail of information available (due to differences in camera resolution, camera altitude and orientation). Also different videos may be queried for objects of different sizes,  enabling different scope of downscaling per query.
 The below figure shows the high variation of object sizes across different videos and semantic clases.
+The distribution car sizes in blue and that of bus in orange.
 
 ![objectSizeDistributions](./Plots_DDownscale/DatasetCharacteristics/VideoDurationAndObjectSizeDistribution-HUMAN_for_DATASET-UA-DETRAC-TrainUA-DETRAC-TestZurichDataset_CLASS-carbus.png)
 
 
-Additionally note the short durations of videos that we are dealing with.
+Additionally note the short durations of videos that we are dealing with, denoted by black marker.
 
 
 
